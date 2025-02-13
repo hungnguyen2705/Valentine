@@ -55,32 +55,9 @@ body {
   }
   
   
-  @keyframes fade{
-    0%{opacity:0}
-    100%{opacity:1}
-  }
+ 
+  
 
-  @keyframes animate {
-    0%
-    {
-      filter: blur(0);
-    }
-    0%
-    {
-      filter: blur(0);
-    }
-    40%
-    { 
-      filter: blur(20px);
-    }
-    80%
-    {
-      filter: blur(0);
-    }
-    100%
-    {
-      filter: blur(0);
-    }
-  }
+  
   
   
